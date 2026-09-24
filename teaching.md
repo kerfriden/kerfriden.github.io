@@ -24,7 +24,7 @@ permalink: /teaching/
 
 ---
 
-## 🧠 IDSC @ Mines Paris
+## 🤖 IDSC @ Mines Paris
 
 ### Inverse Problems & PINNs
 [📄 Inverse Problems and Physics-Informed Neural Networks](https://1drv.ms/b/s!AjM6vw3llOZ-i9ontPMPQmn6ibtMCw?e=SrYbQX)
@@ -45,12 +45,6 @@ permalink: /teaching/
 
 - [📄 Surrogate Modelling 1](https://1drv.ms/b/s!AjM6vw3llOZ-i_F4z7W5jle8r9BpMg)
 - [📄 Surrogate Modelling 2](https://1drv.ms/b/s!AjM6vw3llOZ-i_F3D_65lZ94-DyCsg)
-
----
-
-## 🤖 AI Week @ PSL University
-
-[📄 AI Week](https://1drv.ms/b/s!AjM6vw3llOZ-jvVCVnD_6MrBOAP8lQ)
 
 ---
 
