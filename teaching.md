@@ -30,7 +30,8 @@ permalink: /teaching/
 [📄 Inverse Problems and Physics-Informed Neural Networks](https://1drv.ms/b/s!AjM6vw3llOZ-i9ontPMPQmn6ibtMCw?e=SrYbQX)
 
 ### Geometric Learning with GNNs
-[📄 Graph Neural Networks](https://1drv.ms/b/s!AjM6vw3llOZ-jqltsbDdeAMidrr97w)
+[📄 FCN remfresher](https://1drv.ms/b/c/7ee694e50dbf3a33/IQAzOr8N5ZTmIIB-wroDAAAAAb5uW1C41D1xkkbwcJ_xuxU?e=u3qULX)
+[📄 Graph Neural Networks](https://1drv.ms/b/c/7ee694e50dbf3a33/IQA9yMjNBs3sRbAYqiRiPzXJAU3Fz7frR1_nxv6l4qReIOw?e=e45gs7)
 
 ---
 
