@@ -41,9 +41,9 @@ permalink: /teaching/
 
 ---
 
-## 🖼️ DMS Computer Vision Week @ Centre des Matériaux, Mines Paris
+## 🖼️ Surrogate-modelling @ DMS Computer Vision Week, Centre des Matériaux, Mines Paris
 
-[📄 Surrogate Modelling 1](https://1drv.ms/b/c/7ee694e50dbf3a33/IQAzOr8N5ZTmIIB-L9wDAAAAAQCp0cHifwNKf_ch932BieU?e=K38cYA)
+[📄 Surrogate Modelling](https://1drv.ms/b/c/7ee694e50dbf3a33/IQAzOr8N5ZTmIIB-L9wDAAAAAQCp0cHifwNKf_ch932BieU?e=K38cYA)
 
 ---
 
